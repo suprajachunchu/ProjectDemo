@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="5" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-14T15:18:39 IST" name="Suite" finished-at="2023-12-14T15:18:54 IST" duration-ms="14797">
+    <groups>
+    </groups>
+    <test started-at="2023-12-14T15:18:39 IST" name="Test" finished-at="2023-12-14T15:18:54 IST" duration-ms="14797">
+      <class name="com.mavendemo.Demo">
+        <test-method signature="LaunchBrowser()[pri:0, instance:com.mavendemo.Demo@6379eb]" started-at="2023-12-14T15:18:49 IST" name="LaunchBrowser" finished-at="2023-12-14T15:18:54 IST" duration-ms="4491" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchBrowser -->
+        <test-method signature="Input()[pri:0, instance:com.mavendemo.Demo@6379eb]" started-at="2023-12-14T15:18:54 IST" name="Input" finished-at="2023-12-14T15:18:54 IST" duration-ms="252" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Input -->
+      </class> <!-- com.mavendemo.Demo -->
+      <class name="com.mavendemo.Facebook">
+        <test-method signature="LaunchBrowser()[pri:0, instance:com.mavendemo.Facebook@4f6ee6e4]" started-at="2023-12-14T15:18:39 IST" name="LaunchBrowser" finished-at="2023-12-14T15:18:49 IST" duration-ms="9631" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchBrowser -->
+        <test-method signature="credentialsValidation()[pri:0, instance:com.mavendemo.Facebook@4f6ee6e4]" started-at="2023-12-14T15:18:49 IST" name="credentialsValidation" finished-at="2023-12-14T15:18:49 IST" duration-ms="308" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- credentialsValidation -->
+      </class> <!-- com.mavendemo.Facebook -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
